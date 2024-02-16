@@ -1,16 +1,19 @@
-### Hi there 👋
+Bondan Charisnanda Mac HP (Bobys)
+👋 Hello, World!
+I'm Bondan Charisnanda Mac HP, a passionate Developer from Kediri, East Java. Welcome to my corner of GitHub!
 
-<!--
-**bobys16/bobys16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me
+🔭 I’m currently working on E-Invitation PWA.
+🌱 I’m currently learning Fullstack Developer in Dicoding Bootcamp Batch 2 2024.
+📫 How to reach me: bob@simhacyber.com / bondanfadil12@gmail.com / simhacyber.com .
+😄 Pronouns: he/him.
+⚡ Fun fact: I take programmer life as my hobby.
+💻 Technologies & Tools
+Programming Languages: PHP, Javascript, NodeJS.
+Tools & Frameworks: Lavarel, CI, BibElz, Express JS
+Databases: MySQL, PostgreSql
+Operating Systems: MacOs, Windows
+📈 GitHub Stats
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Connect with Me
+[LinkedIn](https://www.linkedin.com/in/bondan-charisnanda-mac-hp-20a455209/)
